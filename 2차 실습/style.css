@@ -1,0 +1,43 @@
+#big_container {
+  width: 40em;
+  padding: 2em;
+  border: 0.5em solid orange;
+}
+
+a {
+  color: orange;
+}
+
+a:visited {
+  color: gray;
+}
+
+a:hover {
+  color: red;
+}
+
+legend {
+  font-weight: bold;
+  font-size: larger;
+  margin-left: 10px;
+  padding-top: 10px;
+}
+h1 {
+  text-align: center;
+  margin-top: 30px;
+}
+
+button {
+  width: 7em;
+  height: 3em;
+  margin: 1em 0.2em;
+  text-decoration: underline;
+  color: white;
+  font-weight: bold;
+}
+#btn_submit {
+  background-color: orange;
+}
+#btn_reset {
+  background-color: gray;
+}
